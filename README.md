@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=salemsajjad&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salemsajjad&icon=0&color=11)](https://visitcount.itsvg.in)
